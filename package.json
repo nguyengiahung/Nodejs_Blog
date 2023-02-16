@@ -1,0 +1,30 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyengiahung/Nodejs_Blog.git"
+  },
+  "keywords": [
+    "f8",
+    "nodejs"
+  ],
+  "author": "sondn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyengiahung/Nodejs_Blog/issues"
+  },
+  "homepage": "https://github.com/nguyengiahung/Nodejs_Blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
